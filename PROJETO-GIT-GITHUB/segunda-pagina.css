@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.segunda-pagina h1 {
+    font-size: 50px;
+    color: blue;
+}
+
+.segunda-pagina p{
+    font-family: verdana;
+    color: blue;
+    text-align: center;
+}
